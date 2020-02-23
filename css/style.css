@@ -41,4 +41,19 @@
 .card {
   border: none;
   box-shadow: 2px 2px 10px gray;
+  border-radius: 10px;
+}
+.card-footer {
+  border: none;
+  background: #fff;
+}
+#contact {
+  height: 300px;
+}
+#contact p {
+  color: #444;
+}
+footer {
+  text-align: center;
+  color: #444;
 }
